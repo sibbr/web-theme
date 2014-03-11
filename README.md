@@ -1,8 +1,14 @@
 canadensys-web-theme
 ====================
 
-Canadensys specific web components used to style our web application.
+Canadensys specific web components used to style our web applications.
 
 You should not reuse this project as is but instead copy and change it to apply you own styling to some Canadensys web applications.
 
-Warning: this feature is not ready in our current web applications.
+Warning: this feature is not yet used in our current web applications.
+
+### Usage
+This component should be used as a WAR Overlay.
+
+* [Using Gradle](https://github.com/scalding/gradle-waroverlay-plugin)
+* [Using Maven](http://maven.apache.org/plugins/maven-war-plugin/overlays.html)
