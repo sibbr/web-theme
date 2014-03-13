@@ -5,7 +5,7 @@
 		</div>
 	</#if>
 	<div id="header_content">
-		<div id="nav_top"><a href="${page.getProperty("page.lang_switch")!}">${rc.getMessage("cwt.header.language.otherlanguage")}</a></div>
+		<div id="nav_top"><a href="<sitemesh:write property='page.lang_switch'/>">${rc.getMessage("cwt.header.language.otherlanguage")}</a></div>
 		<div id="nav_title" class="png"><a href="${rc.getMessage("cwt.header.title.url")}">${rc.getMessage("cwt.header.title")}</a></div>
 		<div id="nav_portal"><span class="selected">${rc.getMessage("cwt.header.data")}</span> | <a href="${rc.getMessage("cwt.header.community.url")}">${rc.getMessage("cwt.header.community")}</a></div>
 	</div>

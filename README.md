@@ -12,3 +12,7 @@ This component should be used as a WAR Overlay.
 
 * [Using Gradle](https://github.com/scalding/gradle-waroverlay-plugin)
 * [Using Maven](http://maven.apache.org/plugins/maven-war-plugin/overlays.html)
+
+### Dependencies
+* Freemarker
+* SiteMesh 3
