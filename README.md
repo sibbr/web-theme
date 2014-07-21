@@ -16,3 +16,7 @@ Este componente deve ser utilizado como uma sobreposição WAR.
 ### Dependências
 * [Freemarker](http://freemarker.org/)
 * [SiteMesh 3](http://wiki.sitemesh.org/wiki/display/sitemesh/Home)
+
+### Instalação
+
+Para maiores informações sobre como compilar e instalar, visite a [Wiki do projeto]()http://github.com/sibbr/portal-web-theme/wiki)
