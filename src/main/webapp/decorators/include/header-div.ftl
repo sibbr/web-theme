@@ -1,7 +1,8 @@
 <!-- HEADER JS-->
 <script type="text/javascript" charset="utf-8" src="http://institucional.sibbr.gov.br/wp-content/themes/portal/js/header.js?v1.0"></script>
-<div class="navbar2">
 
+<div class="bgnav">
+<div class="navbar2">
    <div id="menu">
       <#assign currentApp = rc.getContextPath()?replace("/", "")/>
       <ul>
@@ -17,4 +18,5 @@
       </#list>
    </div>
    
+</div>
 </div>
