@@ -6,7 +6,8 @@
    <div id="menu">
       <#assign currentApp = rc.getContextPath()?replace("/", "")/>
       <ul>
-         <li<#if currentApp = "explorer"> class="page_item current_page_item"</#if>><a href="${rc.getContextPath()}">${rc.getMessage("cwt.header.menu.occportal")}</a></li>	
+         <li<#if currentApp = "explorer"> class="page_item current_page_item"</#if>><a href="${rc.getContextPath()}/${rc.getMessage("cwt.header.link.occurrences")}">${rc.getMessage("cwt.header.menu.occportal")}</a></li>
+         <li<#if currentApp = "datasets"> class="page_item current_page_item"</#if>><a href="${rc.getContextPath()}/${rc.getMessage("cwt.header.link.datasets")}">${rc.getMessage("cwt.header.menu.datasets")}</a></li>
          <li<#if currentApp = "ipt"> class="page_item current_page_item"</#if>><a href="${rc.getMessage("cwt.header.menu.ipt.url")}">${rc.getMessage("cwt.header.menu.ipt")}</a></li>
          <li<#if currentApp = "tools" || currentApp ="narwhal-api"> class="page_item current_page_item"</#if>><a href="${rc.getMessage("cwt.header.menu.tools.url")}">${rc.getMessage("cwt.header.menu.tools")}</a></li>
       </ul>
