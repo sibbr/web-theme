@@ -1,4 +1,4 @@
-portal-web-theme
+web-theme
 ====================
 
 Componente web utilizado para estilizar aplicações web do SiBBr.
