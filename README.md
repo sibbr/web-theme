@@ -19,4 +19,4 @@ Este componente deve ser utilizado como uma sobreposição WAR.
 
 ### Instalação
 
-Para maiores informações sobre como compilar e instalar, visite a [Wiki do projeto](http://github.com/sibbr/portal-web-theme/wiki)
+Para maiores informações sobre como compilar e instalar, visite a [Wiki do projeto](http://github.com/sibbr/web-theme/wiki)
