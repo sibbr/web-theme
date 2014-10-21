@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.gov.sibbr</groupId>
-	<artifactId>portal-web-theme</artifactId>
+	<artifactId>web-theme</artifactId>
 	<version>0.2</version>
 	<packaging>war</packaging>
 	<name>Sibbr web theme</name>

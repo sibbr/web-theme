@@ -1,5 +1,5 @@
 <!-- HEADER JS-->
-<script type="text/javascript" charset="utf-8" src="http://institucional.sibbr.gov.br/wp-content/themes/portal/js/header.js?v1.0"></script>
+<script type="text/javascript" charset="utf-8" src="http://buriti.lncc.br/wordpress/wp-content/themes/portal/js/header.js?v1.0"></script>
 
 <div class="bgnav">
 <div class="navbar2">
@@ -17,7 +17,6 @@
       <#list page.otherLanguage?keys as currLang>
       <a href="${page.otherLanguage[currLang]}">${rc.getMessage("cwt.header.language."+currLang)}</a><#if currLang_has_next> | </#if>
       </#list>
-   </div>
-   
+   </div>  
 </div>
 </div>

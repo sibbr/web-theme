@@ -5,7 +5,7 @@ Componente web utilizado para estilizar aplicações web do SiBBr.
 
 Este projeto deve ser utilizado a partir de uma cópia e de alterações para aplicar seu próprio estilo a alguma das aplicações do SiBBr.
 
-Esta biblioteca é utilizada atualmente pelo projeto [portal-biodiversidade](https://github.com/sibbr/portal-biodiversidade).
+Esta biblioteca é utilizada atualmente pelo projeto [explorador](https://github.com/sibbr/explorador).
 
 ### Uso
 Este componente deve ser utilizado como uma sobreposição WAR.
