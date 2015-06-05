@@ -10,7 +10,7 @@
 
 	<groupId>br.gov.sibbr</groupId>
 	<artifactId>web-theme</artifactId>
-	<version>0.2</version>
+	<version>0.3</version>
 	<packaging>war</packaging>
 	<name>Sibbr web theme</name>
 	<description>The Sibbr's Biodiversity Data Portal Web Theme</description>
